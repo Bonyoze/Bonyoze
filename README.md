@@ -1,3 +1,1 @@
-# 🌺 Heyo.
-
-![](./test.svg)
+# 🌺 Heyo. I'm Bonyoze.
