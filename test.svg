@@ -7,7 +7,7 @@
         erat volutpat.
     </div>
    </foreignObject>
-   <script>
+   <script><![CDATA[
       var xhttp = new XMLHttpRequest();
       xhttp.onreadystatechange = function() {
          if (this.readyState == 4 && this.status == 200) {
@@ -16,5 +16,5 @@
       };
       xhttp.open("GET", "https://api.github.com/repos/bonyoze/bonyoze/issues", true);
       xhttp.send();
-   </script>
+   ]]></script>
 </svg>
