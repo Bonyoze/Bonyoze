@@ -1,7 +1,5 @@
 # 🌺 *Heyo.* I'm Bonyoze.
 
-### Check out some of my stuff
-
 ## `Things I'm Currently Procrastinating From Working On:`
 
 <a href="https://github.com/bonyoze/bonyoze.github.io" >
