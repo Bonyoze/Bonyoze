@@ -1,3 +1,1 @@
-# 🌺 *Heyo.* I'm Bonyoze.
-
-[Check this out](https://bonyoze.github.io)
+### Hi, I'm [Bonyoze](https://bonyoze.github.io)
